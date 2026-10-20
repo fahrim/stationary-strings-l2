@@ -8,7 +8,7 @@
 
 Author: Fahri Meral · Date: October 20, 2026 · Version: v1 (L2)
 
-> **Status:** Unpublished preprint (v1). Not peer-reviewed. *Zenodo DOI pending deposit.*
+> **Status:** Unpublished preprint (v1). Not peer-reviewed. *[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23517495-blue.svg)](https://doi.org/10.5281/zenodo.23517495)*
 
 ## The claim in one paragraph
 
@@ -75,6 +75,7 @@ model: it operates on a repository and a source corpus.
   title  = {No Source, No Agreement: A Forensic Protocol for Literature Values in Model-Assisted Physics},
   year   = {2026},
   url    = {https://github.com/fahrim/stationary-strings-l2}
+  doi    = {10.5281/zenodo.23517495},
 }
 ```
 

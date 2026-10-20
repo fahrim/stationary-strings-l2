@@ -8,7 +8,7 @@
 
 Yazar: Fahri Meral · Tarih: 20 Ekim 2026 · Sürüm: v1 (L2)
 
-> **Durum:** Yayımlanmamış ön-baskı (v1). Hakem denetiminden geçmemiştir. *Zenodo DOI'si yüklemeyi bekliyor.*
+> **Durum:** Yayımlanmamış ön-baskı (v1). Hakem denetiminden geçmemiştir. *[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23517495-blue.svg)](https://doi.org/10.5281/zenodo.23517495)*
 
 ## Tek paragrafta iddia
 Kendi ön-baskı serimizdeki, kendi kaynaklığımızdan gelen bir hatayı ve onu
@@ -72,6 +72,7 @@ kaynak korpusu üzerinde çalışır.
   title  = {Kaynak Yoksa Uyum da Yoktur: Model Destekli Fizikte Literatür Değerleri İçin Adli Protokol},
   year   = {2026},
   url    = {https://github.com/fahrim/stationary-strings-l2}
+  doi    = {10.5281/zenodo.23517495},
 }
 ```
 
