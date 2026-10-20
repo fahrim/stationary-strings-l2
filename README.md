@@ -74,7 +74,7 @@ model: it operates on a repository and a source corpus.
   author = {Fahri Meral},
   title  = {No Source, No Agreement: A Forensic Protocol for Literature Values in Model-Assisted Physics},
   year   = {2026},
-  url    = {https://github.com/fahrim/stationary-strings-l2}
+  url    = {https://github.com/fahrim/stationary-strings-l2},
   doi    = {10.5281/zenodo.23517495},
 }
 ```

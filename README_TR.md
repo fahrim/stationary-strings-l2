@@ -71,7 +71,7 @@ kaynak korpusu üzerinde çalışır.
   author = {Fahri Meral},
   title  = {Kaynak Yoksa Uyum da Yoktur: Model Destekli Fizikte Literatür Değerleri İçin Adli Protokol},
   year   = {2026},
-  url    = {https://github.com/fahrim/stationary-strings-l2}
+  url    = {https://github.com/fahrim/stationary-strings-l2},
   doi    = {10.5281/zenodo.23517495},
 }
 ```
