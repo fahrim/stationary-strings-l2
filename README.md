@@ -61,7 +61,7 @@ python -W ignore duran_sicimler_sim/mini_check_l2.py    # 7/7 PASS
 python -W ignore duran_sicimler_sim/ghost_audit.py \
     --repo . --values 1.55 1.70 --groups "1.55+1.70" \
     --paths duran_sicimler_sim \
-    --sources "G:\my_scientific_work\sources\antimatter"
+    --sources <kaynak korpusu kok dizini>
 ```
 
 The tool does **not** import the solver and does not depend on the physical
