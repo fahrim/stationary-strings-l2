@@ -3,7 +3,8 @@
   "description": "Letter (October 2026) reporting a self-inflicted error in the Stationary Strings preprint series and turning it into a transferable method. A table of experimental ratios was labelled independent literature and compared against two model outputs, both of which landed inside the two quoted intervals. Four primary papers were downloaded and scanned in full (PDF text and LaTeX source); the quoted numbers occur nowhere in them, so the claim was withdrawn. Two independent forensic tests are introduced and released as code: repository archaeology, which asks whether a value carried a source record before the agreement that uses it was asserted, and source-existence scanning, which asks whether the quoted interval exists in the source corpus at all. The two apparent confirmations are shown to be algebraically dependent (the second ratio is the square of the first divided by a locked constant, verified to 5.6e-17), so the apparent two-point agreement rested on a single degree of freedom resting on a value with no source. Of the six literature quantities used in the two affected tests, three could not be traced to any source and two more were numerically wrong. A six-step detection protocol is given, the limits of the two tests are stated explicitly, and the tool (ghost_audit.py) together with its independent self-test (mini_check_l2.py, 7/7) and the forensic figure are released. The letter is independent of the Stationary Strings model and is published in Turkish and English.",
   "creators": [
     {
-      "name": "Meral, Fahri"
+      "name": "Meral, Fahri",
+      "orcid": "https://orcid.org/0009-0004-2287-2376"
     }
   ],
   "license": {
